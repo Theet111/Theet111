@@ -63,8 +63,6 @@ Including the artist name helps Spotify select the correct song.
 
 ---
 
----
-
 ## `IMPERIAL RECORD 004 // SYSTEMS DATABANK`
 
 ### Command Systems
@@ -123,8 +121,6 @@ MISSION PRIORITY   // SHIP RELIABLE PRODUCTS
 </div>
 
 `DEVELOPMENT BAY // CONSTRUCTION IN PROGRESS`
-
----
 
 ---
 
