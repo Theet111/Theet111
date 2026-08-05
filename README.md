@@ -8,8 +8,6 @@
 
 `IMPERIAL COMMAND NETWORK // AUTHORIZED ACCESS`
 
-> Precision in architecture. Discipline in execution. Reliability at scale.
-
 [![Open Communication Channel](https://img.shields.io/badge/OPEN_COMMUNICATION_CHANNEL-D6A33A?style=for-the-badge\&logo=gmail\&logoColor=293038)](mailto:purvmistry18@gmail.com)
 
 </div>
