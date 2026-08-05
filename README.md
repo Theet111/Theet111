@@ -1,4 +1,4 @@
-![](./galactic-empire-banner.png)
+![](./hero-banner.png)
 
 <div align="center">
 
