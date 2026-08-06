@@ -53,7 +53,7 @@ Including the artist name helps Spotify select the correct song.
 
 <div align="center">
 
-[![Spotify Music Card](https://spotify-cards.fossian.com/api?id=6SRWhUJcD2YKahCwHavz3X&color=293038&orientation=landscape)](https://open.spotify.com/track/3tAxG30eS3Q0IfWriMRraT)
+[![Spotify Music Card](https://spotify-cards.fossian.com/api?id=6SRWhUJcD2YKahCwHavz3X&color=293038&orientation=landscape)](https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl)
 
 </div>
 
