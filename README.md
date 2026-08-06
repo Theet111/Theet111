@@ -43,17 +43,12 @@ My approach is structured but experimental: understand the mission, establish th
 ## `IMPERIAL RECORD 003 // AUDIO TRANSMISSION`
 
 <!--
-CHANGE ONLY THE SONG SEARCH BELOW:
-
-The%20Imperial%20March%20John%20Williams
-
-Use %20 instead of spaces.
-Including the artist name helps Spotify select the correct song.
+Change only the song ID below:
 -->
 
 <div align="center">
 
-[![Spotify Music Card](https://spotify-cards.fossian.com/api?id=6SRWhUJcD2YKahCwHavz3X&color=293038&orientation=landscape)](https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl)
+[![Spotify Music Card](https://spotify-cards.fossian.com/api?id=1HvCFAUIWQsWV9zud3UhDl&color=293038&orientation=landscape)](https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl)
 
 </div>
 
