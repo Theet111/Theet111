@@ -48,7 +48,7 @@ Change only the song ID below:
 
 <div align="center">
 
-[![Spotify Music Card](https://spotify-cards.fossian.com/api?id=7gHs73wELdeycvS48JfIos&color=293038&orientation=landscape)](https://open.spotify.com/track/7gHs73wELdeycvS48JfIos)
+[![Spotify Music Card](https://spotify-cards.fossian.com/api?id=04NMWz4ctkuILV6mUR2iWp&color=293038&orientation=landscape)](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp)
 
 </div>
 
