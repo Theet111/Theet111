@@ -1,22 +1,16 @@
 [← Macintosh HD](../README.md)
 
 ![Music window](../assets/page-music.png)
-## In the CD Player
 
-<!-- Manual music card: change the title, artist, artwork URL, alt text, and both track links below. No API or live listening status is used. -->
+## Now Playing
 
-<table>
-  <tr>
-    <td width="180" align="center">
-      <a href="https://open.spotify.com/track/57PjISfyOyDcvTPipz16nf">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/eb/8b/88/eb8b8802-2c13-e98f-505e-c8d2693718bb/00602537795734.rgb.jpg/1500x1500bb.jpg" width="160" alt="Tribute cover artwork for Love Me Again by John Newman">
-      </a>
-    </td>
-    <td>
-      <b>Love Me Again</b><br>
-      John Newman<br><br>
-      <a href="https://open.spotify.com/track/57PjISfyOyDcvTPipz16nf">♫ Listen on Spotify</a>
-    </td>
-  </tr>
-</table>
+<!-- Manual card: update both song links, the artwork URL and alt text, title, artist, and album below. -->
+<p align="center">
+  <a href="https://music.apple.com/us/song/1850019038"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c7/98/1fc7988e-0a39-5724-1390-e45246250e24/198704825934_Cover.jpg/600x600bb.jpg" width="360" alt="Artwork for About You by The 1975"></a>
+</p>
+<h2 align="center">About You</h2>
+<p align="center">The 1975 — Being Funny In A Foreign Language</p>
+<p align="center"><strong>NOW PLAYING</strong></p>
+<p align="center"><a href="https://music.apple.com/us/song/1850019038">Listen on Apple Music</a></p>
 
+<!-- <sub>To change the song, edit the artwork URL, title, artist, album, and both Apple Music links above. </sub>-->
